@@ -13,6 +13,7 @@
 - Display both celsius and fahrenheit
 - Display the forecast for the next 7 days
 - Use different images for the each weather condition (Example: a cloud icon for 'Cloudy', a sun for 'Sunny'). The API data comes with an icon but you can use [https://fontawesome.com/search?q=rain&o=r&m=free] if you like.
+- You must use at least **TWO** APIs!
 
 ## Grading
 
@@ -20,7 +21,7 @@ Total Grade: 100%
 
 - Design - 40%
 - Features - 40%
-- Responsivess - 20%
+- Responsiveness - 20%
 
 ## Presentation
 
